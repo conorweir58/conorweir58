@@ -10,7 +10,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 ## Programming Languages
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,java,js,r" />
   </a>
@@ -18,7 +18,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 ## Frameworks
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,django,bootstrap" />
   </a>
@@ -26,7 +26,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 ## Web Development
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
@@ -34,7 +34,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 ## DevOps
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,bash,git,github,gitlab" />
   </a>
@@ -42,7 +42,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 ## Databases
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sql,mysql" />
   </a>
@@ -50,7 +50,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 ## Operating Systems
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux" />
   </a>
