@@ -44,7 +44,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
