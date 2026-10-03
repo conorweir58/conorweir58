@@ -2,7 +2,7 @@
   GREETINGS!
 </h1>
 
-I'm Conor! A currrent 3rd Year Computer Science Student @ <a href="https://dcu.ie">Dublin City University</a>.
+I'm Conor! A currrent 4th Year Computer Science Student @ <a href="https://dcu.ie">Dublin City University</a>.
 
 Exploring the world of Software Development and Technology through my projects!
 
