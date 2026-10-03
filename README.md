@@ -20,7 +20,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,js,r,clojure" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,js,r,clojure,haskell" />
   </a>
 </p>
 
