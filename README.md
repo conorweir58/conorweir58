@@ -20,7 +20,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,js,r" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,js,r,clojure" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,django,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,vue,django,bootstrap,tailwind" />
   </a>
 </p>
 
@@ -40,11 +40,19 @@ Exploring the world of Software Development and Technology through my projects!
   </a>
 </p>
 
+## Developer Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,grafana,elasticsearch" />
+  </a>
+</p>
+
 ## DevOps
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bash,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=docker,ansible,bash,git,github,gitlab,powershell" />
   </a>
 </p>
 
@@ -52,7 +60,7 @@ Exploring the world of Software Development and Technology through my projects!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
 
